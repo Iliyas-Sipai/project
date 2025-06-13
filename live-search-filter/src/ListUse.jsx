@@ -6,10 +6,9 @@ const ListUse = () => {
 
 
     const userList = [
-  'Iliyas Sipai',
-  'Aman Kuresh',
-  'Alfaj',
-  'Uevish',
+  'Iliyas ',
+  'Aman',
+  'Urvish',
   'Dipak',
   'Imran',
   'Manav',
