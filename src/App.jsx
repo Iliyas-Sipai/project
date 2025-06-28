@@ -40,7 +40,6 @@ import NavCompo from './navbar/NavCompo'
 import ContactCompo from './contact/ContactCompo';
 import AboutCompo from './about/AboutCompo';
 import Footer from './footer/Footer';
-import Blank from './hero/Blank';
 import CartProvider from './cart/CartContext'; // ✅ Make sure path is correct
 import CartPage from './cart/CartPage';
 import CategoryComp from './product/CategoryComp';
