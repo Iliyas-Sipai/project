@@ -10,29 +10,6 @@
 // import CartProvider from './cart/CartContext';
 // // import CartPage from './cart/CartContext';
 
-
-// function App() {
-//   return (
-//     <>
-// <Router>
-//   <CartPage/>
-//       <NavCompo />
-//       <Routes>
-//         <Route path="/home" element={<HeroCompo />} />
-//         <Route path="/about" element={<AboutCompo/>} />
-//         <Route path="/single-product" element={<CategoryComp />} />
-//         <Route path="/contact" element={<ContactCompo />} />
-//          {/* <Route path="/cart" element={<CartPage />} /> */}
-//         <Route path="*" element={<HeroCompo/>} />
-//       </Routes>
-//       <Footer/>
-//     </Router>
-//       <Blank/>
-//     </>
-//   )
-// }
-
-// export default App
 import { BrowserRouter as Router, Routes, Route } from 'react-router-dom';
 import HeroCompo from './hero/HeroCompo'
 import NavCompo from './navbar/NavCompo'
