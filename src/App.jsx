@@ -1,5 +1,3 @@
-// import NavCompo from './navbar/NavCompo'
-// import CategoryComp from './category/CategoryComp'
 // import ContactCompo from './contact/ContactCompo';
 // import AboutCompo from './about/AboutCompo';
 // import Footer from './footer/Footer';
