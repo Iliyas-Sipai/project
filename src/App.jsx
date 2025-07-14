@@ -1,6 +1,3 @@
-// import { useState } from 'react'
-// import { BrowserRouter as Router, Routes, Route } from 'react-router-dom';
-// import HeroCompo from './hero/HeroCompo'
 // import NavCompo from './navbar/NavCompo'
 // import CategoryComp from './category/CategoryComp'
 // import ContactCompo from './contact/ContactCompo';
