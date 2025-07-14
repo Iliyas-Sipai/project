@@ -1,6 +1,3 @@
-// import Blank from './hero/Blank';
-// import CartProvider from './cart/CartContext';
-// // import CartPage from './cart/CartContext';
 
 import { BrowserRouter as Router, Routes, Route } from 'react-router-dom';
 import HeroCompo from './hero/HeroCompo'
