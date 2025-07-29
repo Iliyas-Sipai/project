@@ -11,7 +11,7 @@ const CartPage = () => {
   return (
      <div className="min-vh-100 d-flex flex-column">
       <div className="container my-5 flex-grow-1">
-        <h3 className="mb-2">🛒 Your Cart</h3>
+        <h3 className="mb-5">🛒 Your Cart</h3>
 
         {cart.length === 0 ? (
           <div className="text-center py-5">
