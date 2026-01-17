@@ -19,7 +19,7 @@ const CartPage = () => {
             <img
               src="https://cdn-icons-png.flaticon.com/512/2038/2038854.png"
               alt="Empty Cart"
-              style={{ width: '150px', marginTop: '20px' }}
+              style={{ width: '151px', marginTop: '20px' }}
             />
           </div>
         ) : (
