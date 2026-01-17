@@ -1,14 +1,3 @@
-// import { useState } from 'react'
-// import { BrowserRouter as Router, Routes, Route } from 'react-router-dom';
-// import HeroCompo from './hero/HeroCompo'
-// import NavCompo from './navbar/NavCompo'
-// import CategoryComp from './category/CategoryComp'
-// import ContactCompo from './contact/ContactCompo';
-// import AboutCompo from './about/AboutCompo';
-// import Footer from './footer/Footer';
-// import Blank from './hero/Blank';
-// import CartProvider from './cart/CartContext';
-// // import CartPage from './cart/CartContext';
 
 import { BrowserRouter as Router, Routes, Route } from 'react-router-dom';
 import HeroCompo from './hero/HeroCompo'
