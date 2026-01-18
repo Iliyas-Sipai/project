@@ -13,8 +13,7 @@ const CartProvider = ({ children }) => {
   useEffect(() => {
     localStorage.setItem('cartItems', JSON.stringify(cart));
   }, [cart]);
-
-  // 🛒 Add to cart
+ // add to cart prosses 
   const addToCart = (product, quantity) => {
     quantity = Number(quantity) || 1;
 
